@@ -44,6 +44,10 @@ o	Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the R
 o	This chart will enable us to identify underperforming or less popular pizza options.
 
 
--Dashboard Interaction Best/Worst Sellers <a href="https://github.com/reddemhari055/Data-Analysis-Dashboard/blob/main/Best%20%26%20Worst%20Seller%20Desktop%20View.png">View Dashboard</a>
+## Dashboard
+![Home Page Desktop](https://github.com/user-attachments/assets/963957d9-ddaa-4fbe-9efa-b3d355506225)
+![Best   Worst Seller Desktop View](https://github.com/user-attachments/assets/69072547-18a7-43b2-940b-2707d707b6cf)
+
+
 
 
